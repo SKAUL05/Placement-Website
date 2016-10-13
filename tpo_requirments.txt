@@ -1,0 +1,45 @@
+sr no
+branch
+roll no
+fname
+mname
+lname
+gender
+dob dd/mm/yy
+category*
+permanent addresss
+mob1
+mob2
+alternative mob name
+email-1 (nirma)
+email-2
+10th %
+passing year
+passing board
+12th
+passing year
+passing board
+Diploma
+passing year
+passing board
+
+SPI 1-8
+CPI
+Pending IF's
+Total IF's
+
+
+
+Branch
+Specialization
+Btech institurte
+university
+year
+MTECH 1-4%
+CPI
+If's
+
+
+
+Graduating Degree
+Sem1-6

@@ -1,0 +1,76 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color:#f9f9f9;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  background-color:#34495e;
+  color:#fff;
+  height:60px;
+}
+a{
+	color:#fff;
+	display:block;
+	height:60px;
+}
+#PageHeading{
+padding:50px 50px 50px 50px;
+margin-left:50px;
+}
+#Content{
+	padding-top:50px;
+	margin-left:180px;
+	padding-bottom:40px;
+}
+#Footer{
+  	background-color:#34495e;
+  	color:#fff;
+  	height:80px;
+	padding-left:50px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:50px;
+	margin-left:0px;
+	margin-bottom:0px;
+	margin-top:10px;
+}
+#HeaderSpace{
+	margin-top:70px;
+}
+#filter-pane{
+	width:300px;
+	padding:20px 20px 20px 20px;
+	float:left;
+
+}
+#filter-content{
+	width:700px;
+	padding:20px 20px 20px 20px;
+}
+.btn-primary{
+  height:45px;
+  width:175px;
+ transition: transform 4s;
+}
+.btn-primary:hover{
+  transform:rotateY(20deg);
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.mainsite{
+  transition: transform 4s;
+}
+.mainsite:hover{
+  color:powderblue;
+  transform:rotateY(20deg);
+}
+.btn:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.dropdown:hover .dropdown-menu{
+  display:block;
+}
+#map{
+  height:150%;
+}

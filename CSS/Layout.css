@@ -1,0 +1,201 @@
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;
+	font-weight: lighter;
+}
+#Holder {
+	width: 980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+#Header {
+	height:70px;
+	background-image:;
+	background-repeat:no-repeat;
+	margin-bottom:11px;
+	background-image:url(../Assets/logo.jpg);
+	border-image:auto;
+}
+#NavBar {
+	height:60px;
+	
+	background-color:#8dd4b6;
+}
+#Content {
+	height:auto;
+	clear:both;
+	overflow:auto;
+}
+#PageHeading{
+	height:auto;
+	padding:11px;
+}
+#ContentLeft {
+	width:280px;
+	float:left;
+	padding-left:11px;
+	padding-top: 11px;
+}
+#ContentRight {
+	width:680px;
+	float:right;
+}
+#Footer {
+	height:100px;
+}
+#HomeLeft{
+	width:400px;
+	float:left
+	padding-left:11px;
+	padding-top: 11px;
+}
+#HomeRight{
+	width:400px;
+	float:right;
+}
+h1{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#666;
+}
+h2 {
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:lighter;
+	color:#999;
+	}
+h6{
+	margin:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:lighter;
+	color:#333;
+	font-size:14px;
+}
+
+.StyleTextField{
+	border:1px solid #666;
+	border-radius:6px;
+	width:200px;
+	height:35px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-left:6px;
+}
+p a{
+	text-decoration: none;
+	color:#000;
+}
+p:hover a{
+	display:block;
+	color:#999;
+}
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:1 thin;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	width:150px;
+	height: 40px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+input:focus{
+	background-color:#FFC;
+}
+#Footer{
+	background-color:#8dd4b6;
+	color:#FFF;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+	font-size:16px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#register {
+	background-color: #8dd4b6;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+	width:150px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+/*button{
+	background-color: #8dd4b6;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+	width:150px;
+}
+*/	
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #8dd4b6;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	color:rgb(242,242,242);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #FFF;
+	color:#000;
+}
+img:hover{
+	box-shadow: 0px 0px 10px 10px #8dd4b6;
+	display:block
+}
+#ViewStudent {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+#ViewStudent tr:nth-child(odd)		{ 
+background-color:#999;
+}
+#ViewStudent tr:nth-child(even)		{ background-color:#fff; }
+
+.TableHeading
+{
+	color:#FFF;
+	background-color:#036;
+	padding-left:10px;
+	padding-bottom:5px;
+}
+.TableContent
+{
+	padding-left:10px;
+	padding-bottom:5px;
+	background-color:#CCC;
+	border:5;
+	
+}

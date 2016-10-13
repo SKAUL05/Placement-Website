@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_student_registration" value="name:userID;datatype:int,name:Fname;datatype:string,name:Lname;datatype:string,name:username;datatype:string,name:password;datatype:string,name:Branch;datatype:string,name:sem1;datatype:real,name:sem2;datatype:real,name:sem3;datatype:real,name:sem4;datatype:real,name:sem5;datatype:real,name:sem6;datatype:real,name:sem7;datatype:real,name:sem8;datatype:real,name:SPI;datatype:real,name:live_IF;datatype:int" />
+</info>

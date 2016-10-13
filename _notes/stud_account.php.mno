@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_stud_account" value="name:studID;datatype:int,name:Fname;datatype:string,name:Lname;datatype:string,name:username;datatype:string,name:password;datatype:string,name:Branch;datatype:string,name:sem1;datatype:int,name:sem2;datatype:int,name:sem3;datatype:int,name:sem4;datatype:int,name:sem5;datatype:int,name:sem6;datatype:int,name:sem7;datatype:int,name:sem8;datatype:int,name:SPI;datatype:int,name:live_IF;datatype:int" />
+</info>
