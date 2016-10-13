@@ -75,11 +75,13 @@
 .btn-1e:hover,
 .btn-1e:active {
 	color: #0e83cd;
+	box-shadow: 10px 20px 20px 0 rgba(0,0,0,0.24), 0 17px 50px 0 black;
 }
 
 .btn-1e:hover:after {
 	height: 260%;
 	opacity: 1;
+	box-shadow: 10px 20px 20px 0 black, 0 17px 50px 0 black;
 }
 
 .btn-1e:active:after {
